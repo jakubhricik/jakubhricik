@@ -8,4 +8,4 @@ I'd like to be a part of team, because I'd be able to learn form more experience
 
 Since October 2019 I am part of Board of European Students of Technology (BEST) in Košice, in October 2020 I have been promoted to the position of Secretary in Board of our Local BEST group.
 
-Also big fun of The Lord of the Rings and The Witcher (I am kind of fantasy lover)
+Also big fun of The Lord of the Rings 💍 and The Witcher 🐺 (I am kind of fantasy lover)
