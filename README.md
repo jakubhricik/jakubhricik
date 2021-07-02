@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakubhricik
 - 👀 I’m interested in Programing and Learning new skills
-- 🌱 I’m currently learning SwiftUi
+- 🌱 I’m currently learning React Nateve
 - 📫 How to reach me : [LinkedIn](linkedin.com/in/jakub-hricik-b17a26179)
 
 I'm highly motivated student of computer science, I'm allways opened for studing and learning new things.
