@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Hricik</h1>
-
-<p align="left"> <a href="https://twitter.com/jakubhricik" target="blank"><img src="https://img.shields.io/twitter/follow/jakubhricik?logo=twitter&style=for-the-badge" alt="jakubhricik" /></a> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FM7e97%2B1Twi%2Fc52SJN3xxQ%3D%3D" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakubhricik" /></a> </p>
+<p align='center'>
+  <a href="https://twitter.com/jakubhricik" target="blank"><img src="https://img.shields.io/twitter/follow/jakubhricik?logo=twitter&style=for-the-badge" alt="jakubhricik" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FM7e97%2B1Twi%2Fc52SJN3xxQ%3D%3D" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;
+  
+</p>
 
 <div align="center">
 
