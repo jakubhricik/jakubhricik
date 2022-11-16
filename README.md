@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jakub Hricik</h1>
 <p align='center'>
-  <a href="https://twitter.com/jakubhricik" target="blank"><img src="https://img.shields.io/twitter/follow/jakubhricik?logo=twitter&style=for-the-badge" alt="jakubhricik" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FM7e97%2B1Twi%2Fc52SJN3xxQ%3D%3D" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FM7e97%2B1Twi%2Fc52SJN3xxQ%3D%3D" >
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://twitter.com/jakubhricik" >
+    <img src="https://img.shields.io/twitter/follow/jakubhricik?logo=twitter&style=for-the-badge" alt="jakubhricik" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/hricikjakub/" >
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   
 </p>
 
@@ -29,7 +39,7 @@ My strengths are strategic thinking, fast learning and I'm honest and discipline
 <h3>
 Hobbies 🕺 
 </h3>
-As an active person I like various sports, gym, cycling, I have been involved in folk dances since I was a child. Also big fan of The Lord of the Rings and The Witcher (I am kind of fantasy lover).Junior Developer
+As an active person I like various sports, gym, cycling, I have been involved in folk dances since I was a child. Also big fan of The Lord of the Rings and The Witcher (I am kind of fantasy lover).
 </div>
 
 
@@ -41,7 +51,7 @@ As an active person I like various sports, gym, cycling, I have been involved in
 
 - 📫 How to reach me **jakub.hricik@gmail.com**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FM7e97%2B1Twi%2Fc52SJN3xxQ%3D%3D)
+- 📄 Know about my experiences [@linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FM7e97%2B1Twi%2Fc52SJN3xxQ%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,5 +64,4 @@ As an active person I like various sports, gym, cycling, I have been involved in
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubhricik&show_icons=true&theme=dark&locale=en&layout=compact" alt="jakubhricik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakubhricik&" alt="jakubhricik" /></p>
 
